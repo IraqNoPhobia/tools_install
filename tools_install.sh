@@ -167,7 +167,8 @@ git clone https://github.com/trustedsec/ptf.git
 git clone https://github.com/portcullislabs/rdp-sec-check.git
 git clone https://github.com/govolution/avet.git
 git clone https://github.com/bitsadmin/wesng.git
-
-
+git clone https://github.com/Wh1t3Rh1n0/air-hammer.git
+git clone https://github.com/khast3x/Redcloud.git
+git cleon https://github.com/fox-it/adconnectdump.git
 
 
